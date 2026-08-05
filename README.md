@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thefatdeveloper
+- 👋 Hi, I’m @thefatdeveloper ( Srikar G )
 - 👀 I’m interested in Web development
 - 🌱 I’m currently working on GenAI, Node JS,  Javascript,ReactJS,GraphQL,.NET and many more technologies where learning curve is high
 - 💞️ I’m looking to collaborate on full stack app development
