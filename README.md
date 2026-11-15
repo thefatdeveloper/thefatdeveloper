@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @thefatdeveloper ( Srikar G )
-- 👀 I’m interested in cutting edge Software Architectures, Modern Web/Mobile development.
-- 🌱 I’m currently working on GenAI, Node JS,  Javascript,ReactJS,GraphQL,.NET and many more technologies where learning curve is high
-- 💞️ I’m looking to collaborate on full stack app development
-- 📫 Reach out to me here --- > saisreekar17@gmail.com | sreekarsai19@gmail.com | srikar.ganugapati@outlook.com
+### Hi, I'm Srikar 👋
 
-<!---
-thefatdeveloper/thefatdeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Staff Software Engineer · ~10 years
+
+I architect production GenAI systems for regulated domains.
+
+- 🤖 **Agentic AI:** customer-facing assistant on MCP and Bedrock AgentCore that answers service queries and acts through tools
+- 🔎 **RAG and LLM governance:** verified citations, run provenance, evaluation and human-in-the-loop sign-off ([Evidence Gate](https://github.com/thefatdeveloper/evidence-gate))
+- 🏗️ **Architecture:** ADRs, non-functional requirements, CRM migration (Siebel → Salesforce) on AWS
+- ⚙️ **AI-assisted engineering:** driving spec-driven development with AI coding tools across teams
+
+**Stack:** TypeScript · Node.js / NestJS · React · Python · PostgreSQL · AWS (Bedrock, Glue, Lambda) · Kafka
+
+📫 sreekarsai19@gmail.com · srikar.ganugapati@outlook.com · [LinkedIn](https://www.linkedin.com/in/srikargvs17/)
